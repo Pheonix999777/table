@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.table{
+    overflow: scroll;
+    height: 300px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table thead{
+    color: #fff;
+    background-color: red;
+}
+
+.table th{
+    height: 40px;
+    border: 1px solid #000;
+}
+
+.table td{
+    height: 40px;
+    text-align: center;
+    border: 1px solid #000;
+
+}
+
